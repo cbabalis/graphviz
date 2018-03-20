@@ -1,0 +1,6 @@
+digraph "19th of March meeting" {
+	Elias -> Babis
+	Elias -> George
+	Vangelis -> George
+	Elias -> Vangelis
+}
