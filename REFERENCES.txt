@@ -1,0 +1,2 @@
+# dot language in some detail:
+http://www.graphviz.org/pdf/dotguide.pdf
