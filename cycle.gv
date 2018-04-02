@@ -1,0 +1,10 @@
+digraph "cyclic graph" {
+	Elias -> Babis
+	Babis -> George
+	Vangelis -> George
+	Vangelis -> Vangelis
+	Elias -> Vangelis
+	George -> Elias
+	Alice -> Bob
+	Bob -> Alice
+}
